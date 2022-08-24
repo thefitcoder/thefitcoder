@@ -1,4 +1,4 @@
-![Abhishek Dhall Banner]([https://user-images.githubusercontent.com/50311627/186005246-97c36a13-7415-496b-973c-c9e4e6c5e255.gif)
+![Abhishek Dhall Banner](https://user-images.githubusercontent.com/50311627/186005246-97c36a13-7415-496b-973c-c9e4e6c5e255.gif)
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/50311627/186082154-8f3fbbd1-8649-4aeb-9f8b-c661cadb2dfa.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
