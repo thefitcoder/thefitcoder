@@ -1,4 +1,4 @@
-![Abhishek Dhall Banner](https://user-images.githubusercontent.com/50311627/186257077-660fb5d0-ddd4-4b1b-bf03-480b1bcbdece.gif)
+![Abhishek Dhall Banner](https://www.canva.com/design/DAFKE6oRJDQ/rTBP8irVStSj6vjCnrDT2A/edit?utm_content=DAFKE6oRJDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/50311627/186082154-8f3fbbd1-8649-4aeb-9f8b-c661cadb2dfa.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
